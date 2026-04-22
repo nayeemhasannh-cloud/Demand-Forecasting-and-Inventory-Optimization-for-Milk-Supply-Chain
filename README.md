@@ -18,8 +18,8 @@ Methodology
 2. Inventory Optimization
 •	Economic Order Quantity (EOQ): 281 litres
 •	Annual demand: 1579.5 litres
-•	Ordering cost assumption: ₹500 per order
-•	Holding cost assumption: ₹20 per litre per year
+•	Ordering cost assumption: Tk 500 per order
+•	Holding cost assumption: Tk 20 per litre per year
 3. Reorder Policy
 •	Daily demand: 4.39 litres
 •	Safety stock: 2.52 litres
